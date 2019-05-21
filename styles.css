@@ -4,8 +4,10 @@ html {
 .haro-title{
     color:crimson;
     text-align: center;
-
 }
 .haro-content{
     text-align: center;
+}
+.haro-img1{
+    width:255px;height:255px;
 }
