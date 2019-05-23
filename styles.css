@@ -1,4 +1,5 @@
 html {
+    background-color: grey;
     margin: 0px;
 }
 .haro-title{
@@ -10,4 +11,14 @@ html {
 }
 .haro-img1{
     width:255px;height:255px;
+}
+.wow-countdown{
+    text-align: center;
+    color:gold;
+    font-size: 3em;
+} 
+.countdown-title{   
+    text-align: center;
+    color: crimson;
+    font-size: 2em;
 }
