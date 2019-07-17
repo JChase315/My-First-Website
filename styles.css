@@ -3,7 +3,6 @@ html {
     margin: 0px;
 }
 .haro-title{
-    color:crimson;
     text-align: center;
 }
 .haro-content{
@@ -17,8 +16,33 @@ html {
     color:gold;
     font-size: 3em;
 } 
-.countdown-title{   
+.countdown-title{
+    margin-top:10px;   
     text-align: center;
-    color: crimson;
     font-size: 2em;
+}
+.welcome-banner{
+    margin: 0px;
+} 
+html,body{
+    margin:0;
+    padding:0;
+    height:100%;
+    width:100%;
+    position: relative;
+}
+.haro-container {
+    min-height:100%;
+    margin: 0;
+    padding: 0;
+ }
+.site-content{
+    padding-bottom:2rem;
+}
+.footer {
+   position:absolute;
+   margin-bottom:0;
+   bottom:0;
+   width:100%;
+   height:2rem;   /* Height of the footer */
 }
